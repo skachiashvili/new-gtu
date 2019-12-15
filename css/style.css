@@ -1,0 +1,16 @@
+body {
+            width: 1600px;
+            height: auto;
+            z-index: -9999;
+        }
+canvas {
+            background-color: #fff;
+            display: block;
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: -9999;
+        }
+.slider {
+height:100px;
+}
